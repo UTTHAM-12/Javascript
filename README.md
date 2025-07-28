@@ -1,3 +1,3 @@
 # Javascript
-my first JS repo.
+My first JS repo.
 Author - Uttham
